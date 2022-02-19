@@ -8,6 +8,7 @@ Tetsuya Takahashi (Adobe),
 Christopher Batty (University of Waterloo)
 
 # Example
+Please include Eigen to use the library.
 
 ```
 #include <iostream>
