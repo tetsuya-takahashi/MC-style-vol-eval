@@ -7,8 +7,8 @@ A single header-only C++17 library (depending on Eigen: https://eigen.tuxfamily.
 Tetsuya Takahashi (Adobe),
 Christopher Batty (University of Waterloo)
 
-# Example
-Please include Eigen to use the library.
+# Usage
+- Please include Eigen to use the library.
 
 ```
 #include <iostream>
