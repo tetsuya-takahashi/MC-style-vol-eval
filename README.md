@@ -2,7 +2,7 @@
 
 A single header-only C++17 library (depending on Eigen: https://eigen.tuxfamily.org/index.php?title=Main_Page) to evaluate volumes and surfaces of 3D grid-based level-set data in the Marching-Cubes-style. Corresponding Marching-Square-style area and perimeter evaluation is also included.
 
-"Fast Marching-Cubes-Style Volume Evaluation for Level Set Surfaces", Journal of Computer Graphics Techniques (https://jcgt.org/index.html) (to appear)
+"Fast Marching-Cubes-Style Volume Evaluation for Level Set Surfaces", Journal of Computer Graphics Techniques (https://www.jcgt.org/published/0011/02/02/)
 
 Tetsuya Takahashi (Adobe),
 Christopher Batty (University of Waterloo)
